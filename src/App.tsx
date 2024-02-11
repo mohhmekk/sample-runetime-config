@@ -18,6 +18,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          Deplpoyment Env: <b>{window._env_.DEPLOYMENT_ENV}</b>
+        </p>
       </header>
     </div>
   );
