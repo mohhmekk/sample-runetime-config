@@ -25,3 +25,4 @@ Now run the following to switch to prod:
 ### `DEPLOYMENT_ENV=prod make run`
 
 The page in the browser should show the new environment.
+![image](screenshots/prod_env.png)
